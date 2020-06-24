@@ -1,0 +1,3 @@
+Homework Project 1a - does not compile but structure is okay - Scala
+syntax for splitting is not working - see video here: 
+http://youtu.be/BQ4_nYo4iTU
